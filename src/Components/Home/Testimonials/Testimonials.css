@@ -1,0 +1,12 @@
+.testimonials-section {
+    background-color: #e5e5e58f;
+    height: 600px;
+}
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}

@@ -1,0 +1,25 @@
+.header-bg {
+    background-image: linear-gradient(to bottom, rgba(49, 70, 175, 0.88) 100%,rgba(49,70,175,0.88) 100%) ,url(/src/Images/headerCover.jpg);
+    height: 560px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header-person {
+    margin-top: 200px;
+    width: 100%;
+}
+.heading-text-1 {
+    background-color: #0f9aeb;
+    color: #fffdfd;
+    font-family: serif;
+    width: 406px;
+    padding: 11px;
+    margin-bottom: 0px;
+}
+.heading-text-2 {
+    background-color: #d718e3;
+    color: #fffdfd;
+    font-family: serif;
+    width: 329px;
+    padding: 11px;
+}

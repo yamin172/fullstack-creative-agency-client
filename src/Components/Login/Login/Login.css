@@ -1,0 +1,15 @@
+.btn-google{
+    width: 268px;
+    height: 54px;
+    border-radius: 40px;
+    font-weight: 700;
+    background-color:#95a9ce9e;
+}
+.google-icon{
+    width: 20px;
+    margin-right:10px;
+}
+.btn-google:hover {
+    background-color: #6babeb;
+    color: #fff;
+}

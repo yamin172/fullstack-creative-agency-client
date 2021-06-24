@@ -1,0 +1,9 @@
+.service-card {
+    width: 345px;
+    margin: 5px auto;
+    transition: 0.2s ease-in-out;
+}
+.service-card:hover {
+    box-shadow: 0px 0px 15px #cac3c3;
+    border: 0;
+}
