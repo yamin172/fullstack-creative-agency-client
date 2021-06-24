@@ -14,7 +14,7 @@ const Reviews = () => {
         company: data.company,
         imageURL: imageURL,
     };
-    const url = `http://localhost:3000/`;
+    const url = `https://fast-hollows-58742.herokuapp.com/reviews`;
 
     console.log(productData);
 
